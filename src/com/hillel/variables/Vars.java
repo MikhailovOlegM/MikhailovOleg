@@ -14,6 +14,7 @@
         int a = 30;
         int b = 25;
         int c = a/b;
-          System.out.println(c);
+          System.out.println(c); //тут мы выводим int, поэтому и вывод у нас показывает просто "1", надо поменять тип везде, где int
+          System.out.println("Lol");
     }
 }
