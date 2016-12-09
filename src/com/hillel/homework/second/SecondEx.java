@@ -1,4 +1,4 @@
-package com.hillel.homework;
+package com.hillel.homework.second;
 import java.util.Scanner;
 
   public class SecondEx{

@@ -1,4 +1,4 @@
-package com.hillel.homework;
+package com.hillel.homework.first;
 
   public class FirstEx{
     public static void main(String[] args){
