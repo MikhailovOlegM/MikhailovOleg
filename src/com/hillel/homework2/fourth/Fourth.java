@@ -11,8 +11,8 @@ import java.util.Scanner;
       System.out.print("Input 2 number: ");
       int b = in.nextInt();
 
-      int ost1 = number - a;
-      int ost2 = number - b;
+      int ost1 = Math.abs(number - a);
+      int ost2 = Math.abs(number - b);
 
       if (ost1 == ost2){
         System.out.println(" This numbers are same");
